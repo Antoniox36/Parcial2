@@ -1,0 +1,101 @@
+ID_Producto,Sucursal,Categoria,Stock_Disponible,Precio_Unitario
+PROD-100,La Libertad,Alimentos,102,66.63
+PROD-101,Sonsonate,Electrónica,143,202.99
+PROD-102,San Miguel,Alimentos,148,110.8
+PROD-103,Sonsonate,Ropa,101,79.98
+PROD-104,Sonsonate,Electrónica,128,92.11
+PROD-105,Santa Ana,Juguetería,74,100.15
+PROD-106,San Miguel,Hogar,97,255.36
+PROD-107,San Miguel,Alimentos,7,45.3
+PROD-108,San Miguel,Hogar,94,214.13
+PROD-109,Sonsonate,Hogar,100,168.08
+PROD-110,La Libertad,Electrónica,56,92.47
+PROD-111,San Miguel,Hogar,132,128.84
+PROD-112,Sonsonate,Juguetería,43,80.58
+PROD-113,Santa Ana,Hogar,86,185.4
+PROD-114,La Libertad,Electrónica,108,29.07
+PROD-115,Santa Ana,Juguetería,133,6.53
+PROD-116,La Libertad,Ropa,15,190.23
+PROD-117,Sonsonate,Hogar,46,62.31
+PROD-118,San Salvador,Electrónica,103,25.93
+PROD-119,La Libertad,Ropa,11,122.05
+PROD-120,Santa Ana,Ropa,148,19.98
+PROD-121,Sonsonate,Alimentos,94,266.55
+PROD-122,La Libertad,Juguetería,116,13.15
+PROD-123,San Salvador,Hogar,64,175.77
+PROD-124,San Salvador,Electrónica,117,134.35
+PROD-125,San Miguel,Alimentos,6,203.25
+PROD-126,San Miguel,Juguetería,133,101.81
+PROD-127,Santa Ana,Alimentos,52,50.74
+PROD-128,La Libertad,Juguetería,144,294.64
+PROD-129,La Libertad,Juguetería,41,252.49
+PROD-130,San Miguel,Hogar,13,258.82
+PROD-131,La Libertad,Juguetería,103,78.82
+PROD-132,La Libertad,Alimentos,52,16.46
+PROD-133,San Salvador,Juguetería,135,94.46
+PROD-134,San Miguel,Hogar,58,163.44
+PROD-135,Sonsonate,Hogar,124,101.36
+PROD-136,San Miguel,Alimentos,120,249.22
+PROD-137,Sonsonate,Ropa,79,85.11
+PROD-138,San Salvador,Ropa,117,289.75
+PROD-139,Santa Ana,Juguetería,108,139.89
+PROD-140,La Libertad,Electrónica,88,253.4
+PROD-141,San Salvador,Juguetería,116,62.34
+PROD-142,La Libertad,Alimentos,103,126.35
+PROD-143,Santa Ana,Alimentos,97,211.36
+PROD-144,Santa Ana,Alimentos,132,45.81
+PROD-145,San Salvador,Alimentos,114,44.16
+PROD-146,Santa Ana,Alimentos,86,291.01
+PROD-147,Sonsonate,Hogar,58,215.81
+PROD-148,Santa Ana,Ropa,72,17.11
+PROD-149,La Libertad,Alimentos,37,122.65
+PROD-150,La Libertad,Electrónica,146,132.89
+PROD-151,La Libertad,Electrónica,25,224.49
+PROD-152,La Libertad,Electrónica,52,79.0
+PROD-153,Sonsonate,Electrónica,132,59.38
+PROD-154,San Miguel,Hogar,140,28.86
+PROD-155,San Salvador,Electrónica,139,131.35
+PROD-156,La Libertad,Alimentos,149,208.11
+PROD-157,Santa Ana,Juguetería,132,22.17
+PROD-158,La Libertad,Electrónica,37,274.99
+PROD-159,Santa Ana,Hogar,119,135.49
+PROD-160,Santa Ana,Hogar,123,75.74
+PROD-161,La Libertad,Electrónica,26,32.69
+PROD-162,Sonsonate,Juguetería,42,58.95
+PROD-163,Santa Ana,Electrónica,113,280.71
+PROD-164,Santa Ana,Hogar,55,193.29
+PROD-165,La Libertad,Ropa,12,157.43
+PROD-166,Santa Ana,Alimentos,31,198.85
+PROD-167,Santa Ana,Hogar,31,133.52
+PROD-168,La Libertad,Electrónica,25,220.36
+PROD-169,La Libertad,Alimentos,34,19.08
+PROD-170,San Salvador,Electrónica,101,171.98
+PROD-171,Sonsonate,Electrónica,32,51.8
+PROD-172,Sonsonate,Ropa,115,40.45
+PROD-173,Santa Ana,Alimentos,65,105.85
+PROD-174,Sonsonate,Alimentos,52,32.08
+PROD-175,Santa Ana,Ropa,8,32.78
+PROD-176,San Salvador,Hogar,39,96.87
+PROD-177,La Libertad,Electrónica,53,293.96
+PROD-178,La Libertad,Juguetería,21,56.72
+PROD-179,La Libertad,Electrónica,50,10.06
+PROD-180,Sonsonate,Electrónica,121,230.19
+PROD-181,San Salvador,Hogar,10,243.04
+PROD-182,Sonsonate,Electrónica,103,107.16
+PROD-183,Sonsonate,Ropa,128,142.08
+PROD-184,San Salvador,Ropa,41,196.68
+PROD-185,San Salvador,Alimentos,28,19.18
+PROD-186,San Salvador,Juguetería,97,285.0
+PROD-187,San Salvador,Electrónica,50,266.57
+PROD-188,La Libertad,Electrónica,99,81.96
+PROD-189,San Miguel,Hogar,103,9.51
+PROD-190,San Miguel,Ropa,120,280.36
+PROD-191,San Salvador,Juguetería,71,152.81
+PROD-192,San Miguel,Alimentos,132,164.12
+PROD-193,San Miguel,Ropa,22,206.77
+PROD-194,San Salvador,Alimentos,29,186.68
+PROD-195,San Miguel,Hogar,58,283.45
+PROD-196,Sonsonate,Hogar,62,283.55
+PROD-197,Santa Ana,Electrónica,71,260.82
+PROD-198,Santa Ana,Juguetería,108,192.74
+PROD-199,San Salvador,Alimentos,28,241.28
